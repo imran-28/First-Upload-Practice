@@ -19,3 +19,14 @@ Step - 4 ==> git branch -M main
 Step - 5 ==> git remote add origin https://github.com/imran-28/First-Upload-Practice.git
 
 Step - 6 ==> git push -u origin main
+
+
+###########################
+
+git add .
+
+git commit -m "practice"
+
+git push
+
+thats it
